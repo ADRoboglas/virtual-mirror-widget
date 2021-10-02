@@ -7,5 +7,3 @@
 <script type="text/javaScript" src="virtual-mirror-widget.js"></script>
 <div id="virtual-mirror-widget"></div>
 ```
-<script type="text/javaScript" src="virtual-mirror-widget.js"></script>
-<div id="virtual-mirror-widget"></div>
